@@ -2,8 +2,9 @@
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🤓 Atualmente sou estudante de Desnvolvimento de Software na Trybe.
-- 🌱 Atualmente estou aprendendo Node.js
-- 💬Me pergunte sobre Futebol
+- 🌱 No momento, estou aprendendo mais sobre Node.js
+- 🤔 Meus hobbies quebra-cabeças e cozinhar
+- 💼 Estou perseguindo conhecimento para iniciar minha carreira como Desenvolvedor
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
 
@@ -25,9 +26,7 @@
 
 
 <a href="https://github.com/IsmaelPeccin">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelPeccin&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelPeccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelPeccin&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsmaelPeccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ![Snake animation](https://github.com/IsmaelPeccin/IsmaelPeccin/blob/output/github-contribution-grid-snake.svg)
--->
