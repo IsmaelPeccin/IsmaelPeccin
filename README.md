@@ -7,6 +7,14 @@
 - 💼 Estou perseguindo conhecimento para iniciar minha carreira como Desenvolvedor
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
+        
+        
+        
+<a href="https://github.com/IsmaelPeccin">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelPeccin&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsmaelPeccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        
+
 
 ### Ferramentas e Tecnologias
 <div>
@@ -24,9 +32,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />
 
+### Links 
 
-<a href="https://github.com/IsmaelPeccin">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelPeccin&layout=compact&langs_count=7&theme=dracula"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsmaelPeccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://www.linkedin.com/in/ismael-peccin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-![Snake animation](https://github.com/IsmaelPeccin/IsmaelPeccin/blob/output/github-contribution-grid-snake.svg)
+
+        
