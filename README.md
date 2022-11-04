@@ -1,10 +1,8 @@
 ## Olá, me chamo Ismael! 
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
-- 🤓 Atualmente sou estudante de Desnvolvimento de Software na Trybe.
-- 🌱 No momento, estou aprendendo mais sobre Programação Orientada a Objeto (POO)
-- 🤔 Meus hobbies quebra-cabeças e cozinhar
-- 💼 Estou perseguindo conhecimento para iniciar minha carreira como Desenvolvedor
+- 🤓 Atualmente estou aprimorando minhas habilidades em .NET!
+- 💼 Atuando como desenvolvedor FullStack na empresa iDATA Software
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
         
