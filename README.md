@@ -1,4 +1,4 @@
-## Olá, me chamo Ismael! 
+## Olá, sou o Ismael! 
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🤓 Me aprimorando cada vez mais no Frontend. Estudando também Data Analytics
