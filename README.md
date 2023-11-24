@@ -1,8 +1,8 @@
 ## Olá, me chamo Ismael! 
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
-- 🤓 Atualmente estou aprimorando minhas habilidades em .NET!
-- 💼 Atuando como desenvolvedor FullStack na empresa iDATA Software
+- 🤓 Me aprimorando cada vez mais no Frontend. Estudando também Data Analytics
+- 💼 Atualmente atuando como Analista de Sistemas na IcaroTech
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
         
