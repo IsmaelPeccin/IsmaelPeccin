@@ -2,9 +2,14 @@
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🤓 Atualmente estudando / atuando como dev back-end utilizando Java com Spring Boot
-- 💼 Atuando como Analista de Sistemas na IcaroTech
+- 💼 Atuando como Analista de Sistemas na IcaroTech, no chapter FullStack
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
+  <div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
+     
+               
+  </div>
         
         
         
@@ -28,10 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>    
  </div> 
 
 ### Estou aprendendo 
