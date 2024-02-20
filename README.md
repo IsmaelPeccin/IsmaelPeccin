@@ -2,7 +2,7 @@
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🤓 Atualmente estudando / atuando como dev back-end utilizando Java com Spring Boot
-- 💼 Atualmente atuando como Analista de Sistemas na IcaroTech
+- 💼 Atuando como Analista de Sistemas na IcaroTech
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
         
@@ -35,6 +35,8 @@
 ### Estou aprendendo 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
+          
 
 ### Links 
 
