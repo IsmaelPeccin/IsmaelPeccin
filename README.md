@@ -1,7 +1,7 @@
 ## Olá, sou o Ismael! 
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
-- 🤓 Me aprimorando cada vez mais no Frontend. Estudando também Data Analytics
+- 🤓 Atualmente estudando / atuando como dev back-end utilizando Java com Spring Boot
 - 💼 Atualmente atuando como Analista de Sistemas na IcaroTech
 - 📫 Como entrar em contato comigo:
         ismaelpeccin@gmail.com
